@@ -137,6 +137,10 @@ app-top-bar h1 {
   background-color: #EEEEEE;
 }
 
+.img a:hover {
+  opacity: 1;
+}
+
 
 /*
 Copyright Google LLC. All Rights Reserved.
